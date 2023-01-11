@@ -62,7 +62,7 @@ function Landing() {
                               fill="currentColor"
                             ></path>
                           </svg>
-                          <span className="ml-2">ccu records</span>
+                          <span className="ml-2">github.com</span>
                         </p>
                       </li>
                     );

@@ -53,28 +53,28 @@ function Landing() {
                       <a
                         className="group -m-1 p-1 hover:text-gray-400"
                         aria-label="Follow on Twitter"
-                        href="https://twitter.com"
+                        href="https://twitter.com/lasbreylawal"
                       >
                         <Twitter />
                       </a>
                       <a
                         className="group -m-1 p-1 hover:text-gray-400"
                         aria-label="Follow on Instagram"
-                        href="https://instagram.com"
+                        href="https://www.instagram.com/_lasbrey/"
                       >
                         <Instagram />
                       </a>
                       <a
                         className="group -m-1 p-1 hover:text-gray-400"
                         aria-label="Follow on GitHub"
-                        href="https://github.com"
+                        href="https://github.com/lasbrey"
                       >
                         <GitHub />
                       </a>
                       <a
                         className="group -m-1 p-1 hover:text-gray-400"
                         aria-label="Follow on LinkedIn"
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/lazarus-lawal-79847586/"
                       >
                         <LinkedIn />
                       </a>

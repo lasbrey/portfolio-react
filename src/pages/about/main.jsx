@@ -32,7 +32,7 @@ function Main() {
                     <img
                       alt=""
                       sizes="(min-width: 1024px) 32rem, 20rem"
-                      src="https://spotlight.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fportrait.79754e9e.jpg&w=1080&q=75"
+                      src="https://res.cloudinary.com/dgikmoh1f/image/upload/v1673432156/Screenshot_20220909-110826_Instagram_a2djjj.jpg"
                       width="800"
                       height="800"
                       decoding="async"
@@ -61,7 +61,7 @@ function Main() {
                     <li className="flex">
                       <a
                         className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
-                        href="/about#"
+                        href="https://twitter.com/lasbreylawal"
                       >
                         <Twitter className="text-gray-400" />
                         <span className="ml-4">Follow on Twitter</span>
@@ -70,7 +70,7 @@ function Main() {
                     <li className="mt-4 flex">
                       <a
                         className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
-                        href="/about#"
+                        href="https://www.instagram.com/_lasbrey/"
                       >
                         <Instagram className="text-gray-400" />
                         <span className="ml-4">Follow on Instagram</span>
@@ -79,7 +79,7 @@ function Main() {
                     <li className="mt-4 flex">
                       <a
                         className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
-                        href="/about#"
+                        href="https://github.com/lasbrey"
                       >
                         <GitHub className="text-gray-400" />
                         <span className="ml-4">Follow on GitHub</span>
@@ -88,7 +88,7 @@ function Main() {
                     <li className="mt-4 flex">
                       <a
                         className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
-                        href="/about#"
+                        href="https://www.linkedin.com/in/lazarus-lawal-79847586/"
                       >
                         <LinkedIn className="text-gray-400" />
                         <span className="ml-4">Follow on LinkedIn</span>
@@ -97,7 +97,7 @@ function Main() {
                     <li className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40 flex">
                       <a
                         className="group flex text-sm font-medium text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"
-                        href="mailto:spencer@planetaria.tech"
+                        href="mailto:lazarusosilawal@gmail.com"
                       >
                         <Email className="text-gray-400" />
                         <span className="ml-4">lazarusosilawal@gmail.com</span>
